@@ -32,9 +32,9 @@
               "state": {
                 "file": "BuatLiat.canvas",
                 "viewState": {
-                  "x": 4078.7471330258963,
-                  "y": 810.078548035212,
-                  "zoom": -1.0520317212023744
+                  "x": 4061.398797615615,
+                  "y": 1125.2515098929493,
+                  "zoom": -1.6748291862963285
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -230,9 +230,13 @@
   },
   "active": "fbbd6494bc2a8baf",
   "lastOpenFiles": [
-    "ErDiagram.md",
+    "Usecase/Roles/Teacher.md",
+    "Usecase/Roles/Untitled.mermaid",
     "BuatLiat.canvas",
-    "Usecase/Student.md",
+    "Usecase/Roles/Admin.md",
+    "Usecase/Roles",
+    "ErDiagram.md",
+    "Usecase/Roles/Student.md",
     "Usecase/StudentCanvas.md",
     "Usecase/index.md",
     "Usecase/Canvas.md",
@@ -262,12 +266,8 @@
     "Peminjaman Buku Perpustakaan/Entity/Books.md",
     "Peminjaman Buku Perpustakaan/Entity/Roles.md",
     "Peminjaman Buku Perpustakaan/Entity/Users.md",
-    "Peminjaman Buku Perpustakaan/Entity/Untitled.md",
-    "Forum Diskusi Pelajaran/Entity/Topics.md",
     "Peminjaman Buku Perpustakaan/Entity/Untitled",
     "Sistem Manajemen Tugas/Entity",
-    "Forum Diskusi Pelajaran/Entity",
-    "Forum Diskusi Pelajaran",
-    "Peminjaman Buku Perpustakaan"
+    "Forum Diskusi Pelajaran/Entity"
   ]
 }

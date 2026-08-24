@@ -25,5 +25,6 @@
   "showLineNumber": true,
   "tabSize": 4,
   "mobilePullAction": "editor:open-search-replace",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

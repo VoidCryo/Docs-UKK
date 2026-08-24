@@ -1,0 +1,49 @@
+/* 1. Paksa latar belakang diagram di dalam Obsidian Canvas menjadi gelap */
+.canvas-node-content .mermaid svg, 
+.mermaid svg {
+  background-color: #1a1b26 !important;
+}
+
+/* 2. Ubah warna kotak Use Case & Aktor */
+.mermaid .node rect, 
+.mermaid .node circle, 
+.mermaid .node polygon,
+.mermaid .node path {
+  fill: #24283b !important;
+  stroke: #7aa2f7 !important;
+  stroke-width: 2px !important;
+}
+
+/* 3. Perbaikan teks di dalam kotak agar berwarna terang */
+.mermaid .node .label, 
+.mermaid .node .label text,
+.mermaid text.nodeLabel {
+  fill: #c0caf5 !important;
+  color: #c0caf5 !important;
+}
+
+/* 4. Ubah warna garis panah menjadi biru neon */
+.mermaid .edgePath .path {
+  stroke: #7dcfff !important;
+  stroke-width: 2px !important;
+}
+
+/* 5. SOLUSI BALOK HITAM: Paksa background label text menjadi transparan/gelap */
+.mermaid .edgeLabel rect {
+  fill: #1a1b26 !important;
+  opacity: 1 !important;
+}
+
+/* 6. Ubah warna teks 'include' / 'extend' menjadi putih/cyan */
+.mermaid .edgeLabel text,
+.mermaid .edgeLabel span {
+  fill: #b4f9f8 !important;
+  color: #b4f9f8 !important;
+}
+
+/* 7. Ubah latar belakang kotak besar (subgraph) */
+.mermaid .cluster rect {
+  fill: #1f2335 !important;
+  stroke: #3b4261 !important;
+  stroke-width: 1.5px !important;
+}

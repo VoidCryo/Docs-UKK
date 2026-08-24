@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"0a8942148992fd2a","x":3557,"y":315,"width":1123,"height":645,"color":"5","type":"file","file":"Usecase/Student.md"}
+		{"id":"0a8942148992fd2a","type":"file","file":"Usecase/Roles/Student.md","x":3557,"y":-160,"width":763,"height":800,"color":"5"},
+		{"id":"74149884eab28e5e","type":"file","file":"Usecase/Roles/Teacher.md","x":3557,"y":720,"width":763,"height":880,"color":"5"},
+		{"id":"28f275e0a9f1094a","type":"file","file":"Usecase/Roles/Admin.md","x":3557,"y":1680,"width":763,"height":440,"color":"5"}
 	],
 	"edges":[]
 }
