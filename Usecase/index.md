@@ -1,5 +1,5 @@
 
-> [!NOTE - Role]
+> [!NOTE]
 > Student
 > Teacher
 > Admin

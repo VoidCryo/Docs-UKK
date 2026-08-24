@@ -1,8 +1,17 @@
 {
 	"nodes":[
-		{"id":"0a8942148992fd2a","type":"file","file":"Usecase/Roles/Student.md","x":3557,"y":-160,"width":763,"height":800,"color":"5"},
-		{"id":"74149884eab28e5e","type":"file","file":"Usecase/Roles/Teacher.md","x":3557,"y":720,"width":763,"height":880,"color":"5"},
-		{"id":"28f275e0a9f1094a","type":"file","file":"Usecase/Roles/Admin.md","x":3557,"y":1680,"width":763,"height":440,"color":"5"}
+		{"id":"ba99aa97fa314763","x":4780,"y":-180,"width":2280,"height":2520,"type":"group","label":"Auth Flowchart"},
+		{"id":"3482e64658a763a6","x":2700,"y":-180,"width":1640,"height":1440,"type":"group","label":"UseCase"},
+		{"id":"9229cb49865914b1","type":"file","file":"Flowchart/Auth/SignIn.md","x":4800,"y":-160,"width":1400,"height":1800,"color":"5"},
+		{"id":"379e22f426842881","type":"file","file":"Flowchart/Auth/SignUp.md","x":6280,"y":-160,"width":760,"height":1440,"color":"5"},
+		{"id":"eea566cd964a0021","type":"file","file":"Flowchart/Auth/CreateProfile.md","x":6280,"y":1360,"width":573,"height":960,"color":"5"},
+		{"id":"a57d87f784525862","x":4800,"y":1720,"width":1400,"height":600,"type":"file","file":"Flowchart/Auth/index.md"},
+		{"id":"74149884eab28e5e","type":"file","file":"Usecase/Roles/Teacher.md","x":3557,"y":-160,"width":763,"height":880,"color":"5"},
+		{"id":"0a8942148992fd2a","type":"file","file":"Usecase/Roles/Student.md","x":2720,"y":-160,"width":763,"height":800,"color":"5"},
+		{"id":"28f275e0a9f1094a","type":"file","file":"Usecase/Roles/Admin.md","x":3557,"y":800,"width":763,"height":440,"color":"5"},
+		{"id":"0ec2909e776fe1da","x":2720,"y":720,"width":763,"height":520,"type":"file","file":"Usecase/index.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f1132a89cf162e03","fromNode":"379e22f426842881","fromSide":"bottom","toNode":"eea566cd964a0021","toSide":"top"}
+	]
 }

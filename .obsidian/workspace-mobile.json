@@ -42,6 +42,23 @@
             }
           },
           {
+            "id": "129b20d50745b16e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "BuatLiat.canvas",
+                "viewState": {
+                  "x": 3020.7200786438834,
+                  "y": 733.6314701903326,
+                  "zoom": -1.4616546995592505
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "BuatLiat"
+            }
+          },
+          {
             "id": "966c443af09cebdb",
             "type": "leaf",
             "state": {
@@ -76,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,24 +242,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbbd6494bc2a8baf",
+  "active": "129b20d50745b16e",
   "lastOpenFiles": [
+    "Flowchart/Auth/index.md",
+    "BuatLiat.canvas",
+    "Usecase/index.md",
+    "Flowchart/Auth/CreateProfile.md",
+    "Flowchart/Auth/ProfileMaker.md",
+    "Flowchart/Auth/SignIn.md",
+    "Flowchart/Auth/SignUp.md",
+    "Flowchart/Auth",
+    "Usecase/Canvas.md",
+    "Drawing 2026-08-24 17.46.10.excalidraw.md",
+    "ERD.md",
+    "README.md",
+    "ERD.md~",
+    "4913",
+    "Untitled.md",
     "Usecase/Roles/Teacher.md",
     "Usecase/Roles/Untitled.mermaid",
-    "BuatLiat.canvas",
     "Usecase/Roles/Admin.md",
     "Usecase/Roles",
     "ErDiagram.md",
     "Usecase/Roles/Student.md",
     "Usecase/StudentCanvas.md",
-    "Usecase/index.md",
-    "Usecase/Canvas.md",
     "Flowchart/index.md",
     "Usecase/useCase.md",
-    "README.md",
     "useCase/Admin.md",
     "Flowchart",
     "Usecase",
@@ -256,18 +285,7 @@
     "Flowchart.canvas",
     "self aware lyrics.md",
     "Flowchart/Login.md",
-    "test.md",
     "Untitled.base",
-    "Setup Project/backend.md",
-    "Setup Project/Monorepo.md",
-    "Setup Project/frontend.md",
-    "Setup Project",
-    "Forum Diskusi Pelajaran/Entity/Users.md",
-    "Peminjaman Buku Perpustakaan/Entity/Books.md",
-    "Peminjaman Buku Perpustakaan/Entity/Roles.md",
-    "Peminjaman Buku Perpustakaan/Entity/Users.md",
-    "Peminjaman Buku Perpustakaan/Entity/Untitled",
-    "Sistem Manajemen Tugas/Entity",
-    "Forum Diskusi Pelajaran/Entity"
+    "Setup Project"
   ]
 }
