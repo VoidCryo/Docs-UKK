@@ -49,9 +49,9 @@
               "state": {
                 "file": "BuatLiat.canvas",
                 "viewState": {
-                  "x": 3020.7200786438834,
-                  "y": 733.6314701903326,
-                  "zoom": -1.4616546995592505
+                  "x": 6634.289073151846,
+                  "y": 714.9302661309283,
+                  "zoom": -1.3092126633364656
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -91,9 +91,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "1ed7c000f40602e2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "BuatLiat.canvas",
+                "viewState": {
+                  "x": 6588.304114370307,
+                  "y": 1975.9972787018216,
+                  "zoom": -0.6967007894844259
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "BuatLiat"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,14 +259,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "129b20d50745b16e",
+  "active": "1ed7c000f40602e2",
   "lastOpenFiles": [
-    "Flowchart/Auth/index.md",
     "BuatLiat.canvas",
+    "Flowchart/Auth/index.md",
     "Usecase/index.md",
     "Flowchart/Auth/CreateProfile.md",
     "Flowchart/Auth/ProfileMaker.md",

@@ -14,8 +14,6 @@ graph LR
         Ekstrakulikuler(Lihat Ekstrakulikuler)
         PendaftaranEkstrakulikuler(Daftar Ekstrakulikuler)
 
-        SignUp -.->|include| PembuatanProfil
-
         Dashboard -.->|include| SignIn
         EditProfil -.->|include| SignIn
         Notifikasi -.->|include| SignIn
@@ -25,6 +23,7 @@ graph LR
     end
 
     Student --> SignUp
+    Student --> PembuatanProfil
     Student --> Ekstrakulikuler
     Student --> Dashboard
     Student --> EditProfil
